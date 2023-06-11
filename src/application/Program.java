@@ -10,8 +10,6 @@ public class Program {
 		
 		System.out.println("Teste de git");
 		
-		
-		
 		sc.close();
 
 	}
